@@ -9,8 +9,8 @@ body {
     user-select: none;
 }
 img{
-    height: 1690px;
-    width: 834px;
+    height: auto;
+    width: 300px;
 }
 header {
     background-color: #333;
